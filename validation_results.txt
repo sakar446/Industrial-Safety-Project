@@ -1,0 +1,12 @@
+VALIDATION 1: Lecture 21 SO2 plume example
+sigma_y = 39.04 m (lecture: 39.0 m)
+sigma_z = 22.68 m (lecture: 22.7 m)
+C(500, 0, 0) = 1.448e-04 g/m^3 (lecture: 1.45e-4 g/m^3)
+C(500, 50, 0) = 6.374e-05 g/m^3 (lecture: 6.37e-5 g/m^3)
+
+VALIDATION 2: Lecture 21 chlorine puff example
+arrival time = 250.0 s (lecture: 250 s)
+sigma_x = sigma_y = 5.05 m (lecture rounds to 5.0 m)
+sigma_z = 2.21 m (lecture rounds to 2.2 m)
+centre concentration = 2.250e-03 kg/m^3
+centre concentration = 776.0 ppmv (lecture: approximately 798 ppm after rounding sigmas)

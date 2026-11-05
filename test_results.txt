@@ -1,0 +1,12 @@
+test_all_cases_return_nonnegative_or_nan_at_source_singularity (test_models.TestDispersionModels.test_all_cases_return_nonnegative_or_nan_at_source_singularity) ... ok
+test_chlorine_puff_arrival_time (test_models.TestDispersionModels.test_chlorine_puff_arrival_time) ... ok
+test_chlorine_puff_center_is_positive (test_models.TestDispersionModels.test_chlorine_puff_center_is_positive) ... ok
+test_plume_sigmas_lecture_example (test_models.TestDispersionModels.test_plume_sigmas_lecture_example) ... ok
+test_ppm_conversion_positive (test_models.TestDispersionModels.test_ppm_conversion_positive) ... ok
+test_so2_crosswind_lecture_example (test_models.TestDispersionModels.test_so2_crosswind_lecture_example) ... ok
+test_so2_lecture_example (test_models.TestDispersionModels.test_so2_lecture_example) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK
